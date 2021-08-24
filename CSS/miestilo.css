@@ -7,3 +7,15 @@ body {
     overflow-x: hidden;
 }
 
+#seccion-contacto, footer{
+background-color: #1B2A4E;
+color: white;
+}
+
+#seccion-contacto {
+	min-height: 700px;
+}
+
+footer {
+	min-height: 90px;
+}
