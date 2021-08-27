@@ -42,7 +42,7 @@ body {
 }
 
 .mapa{
-    background: url(img/imagenes);
+    background-image: url(img/imagenes);
     width: 100%;
     height: 500px;
 
